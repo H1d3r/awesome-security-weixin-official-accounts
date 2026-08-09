@@ -1,7 +1,7 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【9/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【8/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
 [:camera_flash:【2026-08-06T23:01:10】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247508944&idx=1&sn=ea5e5381edcc6279307b1be752fe8de8&scene=27#wechat_redirect)
 
@@ -12,22 +12,9 @@
 ---
 
 
-### [知远战略与防务研究所](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
-
-[:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
-
-[:camera_flash:【2026-07-14T14:36:23】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650081880&idx=7&sn=18108db65a956732a6034d52a545b125&scene=27#wechat_redirect)
-
-独立的战略和防务研究机构，立足于防务动态和学术热点的追踪分析，着眼于长远性、战略性问题的深入研究，并为国家有关机构及决策者提供独立、客观的战略与政策建议。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a25f1d3e2113" alt="" />
-
----
-
-
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【5/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【4/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
 [:camera_flash:【2026-08-06T10:13:49】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568979&idx=2&sn=8f3ecf260aa83f608e8c2fa0d7707c93&scene=27#wechat_redirect)
 
@@ -40,7 +27,7 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【5/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【4/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:camera_flash:【2026-08-03T16:05:24】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156807&idx=2&sn=f75841ce558c2e7bcc9510b0f5ac856e&scene=27#wechat_redirect)
 
@@ -60,6 +47,19 @@
 蓝军开源情报大百科数据库。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c5da285543f" alt="" />
+
+---
+
+
+### [知远战略与防务研究所](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
+
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
+
+[:camera_flash:【2026-07-14T14:36:23】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650081880&idx=7&sn=18108db65a956732a6034d52a545b125&scene=27#wechat_redirect)
+
+独立的战略和防务研究机构，立足于防务动态和学术热点的追踪分析，着眼于长远性、战略性问题的深入研究，并为国家有关机构及决策者提供独立、客观的战略与政策建议。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a25f1d3e2113" alt="" />
 
 ---
 
@@ -144,7 +144,7 @@
 
 ### [猫头鹰OSINT](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
 
 [:camera_flash:【2026-07-14T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzYzNjEwMTkyMA==&mid=2247485442&idx=1&sn=de633dc0c7842358f781117b44a5c97e&scene=27#wechat_redirect)
 
