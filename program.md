@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2026-07-29T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521040&idx=1&sn=59454cfc3b20a519f2a72e26c0932776&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2026-08-06T17:37:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803040&idx=1&sn=a0b7458e9bcc381edcbca4dbc1769f85&scene=27#wechat_redirect)
 
@@ -34,19 +34,6 @@
 读书，写诗，假装自己是黑客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2026-07-10T13:25:04】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495626&idx=1&sn=071fa9ae96bc4ba3c4928b6252ef5a0e&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
@@ -99,6 +86,19 @@
 专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3093cf54140f" alt="" />
+
+---
+
+
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
