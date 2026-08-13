@@ -27,7 +27,7 @@
 
 ### [广诚市保卫者](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
 [:camera_flash:【2026-08-05T10:35:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247490809&idx=1&sn=392735c217a022e5d562924fa2e92634&scene=27#wechat_redirect)
 
