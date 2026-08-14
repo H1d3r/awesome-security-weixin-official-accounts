@@ -1,7 +1,7 @@
 
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:camera_flash:【2026-08-04T12:30:34】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247496224&idx=1&sn=e67d32f91507abf571dd5c31431fdd54&scene=27#wechat_redirect)
 

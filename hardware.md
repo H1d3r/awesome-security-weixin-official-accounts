@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-08-10T11:56:08】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454947535&idx=1&sn=68fc745d8c5c9e2c0c60a4f2228d9f12&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-13T08:26:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454947617&idx=1&sn=fed228e2e698f2f440e8aa54041e83e3&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
