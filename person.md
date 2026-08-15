@@ -12,19 +12,6 @@
 ---
 
 
-### [安全狗的自我修养](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
-
-[:camera_flash:【2026-08-11T07:33:50】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247512779&idx=1&sn=a675325587515b572dafd52058e48e43&scene=27#wechat_redirect)
-
-安全技术相关，作者主页https://github.com/haidragon。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71f097621668" alt="" />
-
----
-
-
 ### [网络安全老宋](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
@@ -34,6 +21,19 @@
 懂安全、会 Python、爱生活的技术管理者～ 分享网络安全实战经验、Python 自动化与工具开发避坑指南，还有职场团队管理技巧、职场爸妈的时间管理与亲子沟通碎碎念，偶尔穿插兴趣日常与成长思考。不贩卖焦虑，只输出真实有温度的硬核干货～
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9c872ff057fb" alt="" />
+
+---
+
+
+### [安全狗的自我修养](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
+
+[:camera_flash:【2026-08-11T07:33:50】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247512779&idx=1&sn=a675325587515b572dafd52058e48e43&scene=27#wechat_redirect)
+
+安全技术相关，作者主页https://github.com/haidragon。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71f097621668" alt="" />
 
 ---
 
@@ -129,19 +129,6 @@ From zero to one
 ---
 
 
-### [网安鲲为帝](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0OTY3OTc5Mw==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0OTY3OTc5Mw==)
-
-[:camera_flash:【2026-08-05T10:07:36】](https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485342&idx=1&sn=3c4c966e40a88e104997830954bcb334&scene=27#wechat_redirect)
-
-网安鲲为帝：练习时长两年半的低危漏洞实习生
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3ff12deacfe8" alt="" />
-
----
-
-
 ### [喵星安全研究所](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTg4NTMzNw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTg4NTMzNw==)
@@ -181,28 +168,15 @@ web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、�
 ---
 
 
-### [格格巫和蓝精灵](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
+### [网安鲲为帝](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0OTY3OTc5Mw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0OTY3OTc5Mw==)
 
-[:camera_flash:【2026-08-01T12:06:34】](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247488353&idx=1&sn=fd50e5faf336b8c7ead0bac861df4d2e&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-05T10:07:36】](https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485342&idx=1&sn=3c4c966e40a88e104997830954bcb334&scene=27#wechat_redirect)
 
-不定期更新一些安全资讯及安全相关文章，主要涵盖代码审计、应急响应、渗透测试、CTF逆向、CTF-web、CTF杂项等，欢迎关注、点赞、转发、私信投稿：D
+网安鲲为帝：练习时长两年半的低危漏洞实习生
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0675b13e7dab" alt="" />
-
----
-
-
-### [网络安全透视镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTg1ODAwNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTg1ODAwNw==)
-
-[:camera_flash:【2026-08-06T23:26:54】](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247502578&idx=1&sn=7434d994b9aea6c32da9f021e255fac9&scene=27#wechat_redirect)
-
-安全类文章、资源分享为主，也会不定期分享一些其他IT资源。如果有什么需要的资源可以留言，万一找到了呢
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0111d52251cf" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3ff12deacfe8" alt="" />
 
 ---
 
@@ -268,6 +242,32 @@ web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、�
 谈人生，聊梦想，话安全，说风云
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b168e6c580ab" alt="" />
+
+---
+
+
+### [格格巫和蓝精灵](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NDg0ODkwMQ==)
+
+[:camera_flash:【2026-08-01T12:06:34】](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247488353&idx=1&sn=fd50e5faf336b8c7ead0bac861df4d2e&scene=27#wechat_redirect)
+
+不定期更新一些安全资讯及安全相关文章，主要涵盖代码审计、应急响应、渗透测试、CTF逆向、CTF-web、CTF杂项等，欢迎关注、点赞、转发、私信投稿：D
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0675b13e7dab" alt="" />
+
+---
+
+
+### [网络安全透视镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTg1ODAwNw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMTg1ODAwNw==)
+
+[:camera_flash:【2026-08-06T23:26:54】](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247502578&idx=1&sn=7434d994b9aea6c32da9f021e255fac9&scene=27#wechat_redirect)
+
+安全类文章、资源分享为主，也会不定期分享一些其他IT资源。如果有什么需要的资源可以留言，万一找到了呢
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0111d52251cf" alt="" />
 
 ---
 

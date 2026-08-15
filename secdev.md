@@ -14,7 +14,7 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
 [:camera_flash:【2026-08-01T16:09:47】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556364&idx=2&sn=783dcf71c701296133dafc0082353ae5&scene=27#wechat_redirect)
 
