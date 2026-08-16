@@ -1,9 +1,9 @@
 
 ### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2026-08-11T18:13:46】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510085&idx=1&sn=869aa05abfc09479b8122bc2ddd990f7&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-15T12:51:11】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510107&idx=1&sn=8a542e166b0f00db909a83ae1051bfee&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NjgzOTAyMg==)
 
-[:camera_flash:【2026-08-11T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247525886&idx=2&sn=9e366d37a4cbc50b989d15c9627d3c9e&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-11T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247525886&idx=1&sn=582d6c4d71ff21be843cd479c9705ca6&scene=27#wechat_redirect)
 
 “Ms08067安全实验室”致力于网络安全的普及和培训！
 

@@ -12,19 +12,6 @@
 ---
 
 
-### [网络安全老宋](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
-
-[:camera_flash:【2026-08-10T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247487426&idx=2&sn=0e8520b6ee519cf9f5b79cc1ccc4f025&scene=27#wechat_redirect)
-
-懂安全、会 Python、爱生活的技术管理者～ 分享网络安全实战经验、Python 自动化与工具开发避坑指南，还有职场团队管理技巧、职场爸妈的时间管理与亲子沟通碎碎念，偶尔穿插兴趣日常与成长思考。不贩卖焦虑，只输出真实有温度的硬核干货～
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9c872ff057fb" alt="" />
-
----
-
-
 ### [安全狗的自我修养](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
@@ -34,6 +21,19 @@
 安全技术相关，作者主页https://github.com/haidragon。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71f097621668" alt="" />
+
+---
+
+
+### [网络安全老宋](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
+
+[:camera_flash:【2026-08-10T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247487426&idx=2&sn=0e8520b6ee519cf9f5b79cc1ccc4f025&scene=27#wechat_redirect)
+
+懂安全、会 Python、爱生活的技术管理者～ 分享网络安全实战经验、Python 自动化与工具开发避坑指南，还有职场团队管理技巧、职场爸妈的时间管理与亲子沟通碎碎念，偶尔穿插兴趣日常与成长思考。不贩卖焦虑，只输出真实有温度的硬核干货～
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9c872ff057fb" alt="" />
 
 ---
 
@@ -79,7 +79,7 @@
 
 ### [安全学习那些事儿](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
 [:camera_flash:【2026-08-04T15:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247503956&idx=1&sn=c66dace9c9a2b4cdd3d34b50906e4912&scene=27#wechat_redirect)
 
@@ -229,19 +229,6 @@ web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、�
 &quot;一个有趣的网络安全小平台&quot; 主攻WEB安全 | 内网渗透 | 红蓝对抗 | SRC | 安全资讯等内容分享，关注了解更多实用的安全小知识～
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_293b1789d368" alt="" />
-
----
-
-
-### [漏洞战争](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgzNTU0Mw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgzNTU0Mw==)
-
-[:camera_flash:【2026-07-16T20:22:00】](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486124&idx=1&sn=5feac1df49b63f898b824fc3fd66ccd8&scene=27#wechat_redirect)
-
-谈人生，聊梦想，话安全，说风云
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b168e6c580ab" alt="" />
 
 ---
 
@@ -2504,6 +2491,19 @@ VisActor 以叙事可视化为新的着力点，以智能可视化为目标，�
 我偶然发现了隐藏在这个世界背后的真相，可惜这里的空白太小了，我没有办法写下来。想知道吗？请每天来看看吧。关注互联网、黑客、创业、技术、历史、文化，可能还有美女哦。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_57a5091f3928" alt="" />
+
+---
+
+
+### [漏洞战争](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgzNTU0Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgzNTU0Mw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+谈人生，聊梦想，话安全，说风云
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b168e6c580ab" alt="" />
 
 ---
 
