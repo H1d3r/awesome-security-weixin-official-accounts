@@ -12,6 +12,19 @@
 ---
 
 
+### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:camera_flash:【2026-08-18T16:30:00】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485754&idx=1&sn=d8bf1ed1f4c8a4a2a02796b31cd3c0ca&scene=27#wechat_redirect)
+
+信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
+
+---
+
+
 ### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
@@ -34,19 +47,6 @@
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
-### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:camera_flash:【2026-07-31T19:50:26】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485726&idx=1&sn=cbc29117df3c987d4711482717d11510&scene=27#wechat_redirect)
-
-信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2026-08-15T12:51:11】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510107&idx=1&sn=8a542e166b0f00db909a83ae1051bfee&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-18T19:37:34】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510143&idx=2&sn=1bce69dbd76f2466e53ea7e6cbb16908&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -27,7 +27,7 @@
 
 ### [内生安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
 [:camera_flash:【2026-08-06T15:29:53】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247539457&idx=1&sn=1286dd0a95bf6e43f31c89919f5b8ff5&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [红客攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
 
-[:camera_flash:【2026-08-06T19:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247486982&idx=1&sn=389f0a51ee6ba2182e1a592b36669456&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-18T19:18:48】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247487117&idx=3&sn=12221e665335a4ccb63272dc4d31105f&scene=27#wechat_redirect)
 
 遇事而出，凡是与中国过不去的，我们就下山；凡是要损害中华民族利益的，我们将出动……”我们的口号：“人不犯我，我不犯人，人若犯我，虽远必诛”
 
@@ -99,19 +99,6 @@
 高等精灵实验室（LHE）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce22d022d87f" alt="" />
-
----
-
-
-### [天御攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgyMzM2Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgyMzM2Nw==)
-
-[:camera_flash:【2026-07-19T11:48:35】](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487042&idx=1&sn=8e440b3d1d5c9233a6805ebbca535efb&scene=27#wechat_redirect)
-
-天御智库： 信息战、网络战、全球高级威胁研究与分析、国际关系研究智库 | 天御攻防实验室：威胁狩猎、威胁情报
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5206deb3cebc" alt="" />
 
 ---
 
@@ -216,6 +203,19 @@
 大道至简，要言不烦。网络与数据法、前沿科技法律深度观察。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e5e48ad17df0" alt="" />
+
+---
+
+
+### [湘岚实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODMwOTQ5MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODMwOTQ5MQ==)
+
+[:camera_flash:【2026-08-18T15:21:52】](https://mp.weixin.qq.com/s?__biz=Mzk4ODMwOTQ5MQ==&mid=2247486491&idx=1&sn=4d2dc748d28fa1a4413a8f85f90b30f6&scene=27#wechat_redirect)
+
+你就是为网安而生的！ ——搞技术の一家人
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_483fd1be8c95" alt="" />
 
 ---
 
@@ -346,6 +346,19 @@
 天融信阿尔法实验室将不定期推出技术研究新方向成果，专注安全攻防前沿技术
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b0b1747bf15" alt="" />
+
+---
+
+
+### [天御攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgyMzM2Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzgyMzM2Nw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+天御智库： 信息战、网络战、全球高级威胁研究与分析、国际关系研究智库 | 天御攻防实验室：威胁狩猎、威胁情报
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5206deb3cebc" alt="" />
 
 ---
 
@@ -2621,19 +2634,6 @@ We are a team full of dreams, we will never stop moving forward!
 
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_824e20393a9c" alt="" />
-
----
-
-
-### [湘岚实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODMwOTQ5MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODMwOTQ5MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-你就是为网安而生的！ ——搞技术の一家人
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_483fd1be8c95" alt="" />
 
 ---
 
