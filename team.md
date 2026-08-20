@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTM2MDYwNg==)
 
-[:camera_flash:【2026-08-16T06:34:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247530405&idx=2&sn=bf92b724b8e57385d920e72587afa809&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-16T06:34:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247530405&idx=1&sn=f76fc1a9bb2c4bab90b67e64397b834d&scene=27#wechat_redirect)
 
 服务全国情报侦查人员，培养网络情报思维，提高网络情报侦查能力。
 
@@ -25,19 +25,6 @@
 ---
 
 
-### [中国电信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDY0MjMxNQ==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDY0MjMxNQ==)
-
-[:camera_flash:【2026-08-10T09:41:18】](https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247541772&idx=1&sn=b6ea9530d97cd9ad46c2ff2aeb637c43&scene=27#wechat_redirect)
-
-天翼安全科技有限公司（中国电信安全公司，简称“电信安全”）是中国电信集约开展网络安全业务的科技型、平台型专业公司，依靠中国电信云网资源禀赋，始终坚持以科技创新带动安全能力的全方位布局。拳头产品云堤·抗D稳居行业第一。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_192be5f3b663" alt="" />
-
----
-
-
 ### [船山信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
@@ -47,6 +34,19 @@
 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20e7cc213b82" alt="" />
+
+---
+
+
+### [中国电信安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDY0MjMxNQ==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNDY0MjMxNQ==)
+
+[:camera_flash:【2026-08-10T09:41:18】](https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247541772&idx=1&sn=b6ea9530d97cd9ad46c2ff2aeb637c43&scene=27#wechat_redirect)
+
+天翼安全科技有限公司（中国电信安全公司，简称“电信安全”）是中国电信集约开展网络安全业务的科技型、平台型专业公司，依靠中国电信云网资源禀赋，始终坚持以科技创新带动安全能力的全方位布局。拳头产品云堤·抗D稳居行业第一。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_192be5f3b663" alt="" />
 
 ---
 
@@ -92,9 +92,9 @@
 
 ### [安世加](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTQwMzMxNA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTQwMzMxNA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTQwMzMxNA==)
 
-[:camera_flash:【2026-08-06T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247544470&idx=1&sn=475c0c4c250f4728f9311b2616410a2a&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-19T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247544526&idx=1&sn=2a0ff55d9e0d0b2985715e63aedfd821&scene=27#wechat_redirect)
 
 安世加专注于网络安全⾏业，通过互联⽹平台、线下沙⻰、峰会、⼈才招聘等多种形式，致力于培养安全⼈才，提升⾏业的整体素质，助推安全⽣态圈的健康发展。
 
