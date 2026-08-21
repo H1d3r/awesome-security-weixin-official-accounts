@@ -29,7 +29,7 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2026-08-04T09:05:28】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501964&idx=1&sn=2d46f791db4937623ea31e13f89ccfaa&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-20T09:21:14】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502012&idx=1&sn=e7425951e1eecf36b07f1e015f7498d8&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
