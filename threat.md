@@ -1,17 +1,4 @@
 
-### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
-
-[:camera_flash:【2026-08-20T07:32:57】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569157&idx=2&sn=3db2321a30d031a887934951ea6d0ca9&scene=27#wechat_redirect)
-
-刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
-
----
-
-
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
@@ -25,15 +12,15 @@
 ---
 
 
-### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2026-08-18T16:58:38】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247497425&idx=1&sn=3634aae637291246c823cc055edad427&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-20T07:32:57】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569157&idx=2&sn=3db2321a30d031a887934951ea6d0ca9&scene=27#wechat_redirect)
 
-&quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
+刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_541604f9ce73" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e87ab103349e" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
+
+---
+
+
+### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+
+[:camera_flash:【2026-08-18T16:58:38】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247497425&idx=1&sn=3634aae637291246c823cc055edad427&scene=27#wechat_redirect)
+
+&quot;恐惧就是貌似真实的伪证&quot; NightCrawler Team(简称:夜组)主攻WEB安全 | 内网渗透 | 红蓝对抗 | 代码审计 | APT攻击，致力于将每一位藏在暗处的白帽子聚集在一起，在夜空中划出一道绚丽的光线！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_541604f9ce73" alt="" />
 
 ---
 

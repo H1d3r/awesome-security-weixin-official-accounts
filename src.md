@@ -155,19 +155,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
-### [平安集团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
-
-[:camera_flash:【2026-07-23T13:56:39】](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145763&idx=1&sn=1be7611052b0ee1ae309f3d67ecf1b2b&scene=27#wechat_redirect)
-
-平安集团安全应急响应中心隶属于平安科技，是外部用户向平安集团反馈各产品和业务安全漏洞的平台，也是平安科技加强与安全界和同仁合作交流的渠道之一。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_639e452805cd" alt="" />
-
----
-
-
 ### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
@@ -515,6 +502,19 @@ VIPKID安全响应中心官方账号
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f60c48366cb" alt="" />
+
+---
+
+
+### [平安集团安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzODAwMTYxNQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+平安集团安全应急响应中心隶属于平安科技，是外部用户向平安集团反馈各产品和业务安全漏洞的平台，也是平安科技加强与安全界和同仁合作交流的渠道之一。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_639e452805cd" alt="" />
 
 ---
 
