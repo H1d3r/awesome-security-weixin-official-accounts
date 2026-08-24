@@ -142,6 +142,19 @@
 ---
 
 
+### [火炬木攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
+
+[:camera_flash:【2026-08-22T00:06:31】](https://mp.weixin.qq.com/s?__biz=Mzg4NzcxOTI0OQ==&mid=2247486934&idx=1&sn=508a4006b7f6d34ccf989955f2f7862d&scene=27#wechat_redirect)
+
+Torchwood火炬木攻防实验室公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78402e6a950b" alt="" />
+
+---
+
+
 ### [0x00实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY2MTUyMA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDY2MTUyMA==)
@@ -723,19 +736,6 @@ u200b“燕云实验室”是河北千诚电子科技有限公司成立的网络
 网络安全知识学习分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea78328aed13" alt="" />
-
----
-
-
-### [火炬木攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-Torchwood火炬木攻防实验室公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_78402e6a950b" alt="" />
 
 ---
 
