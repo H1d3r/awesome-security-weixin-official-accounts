@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2026-08-25T10:41:44】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569189&idx=2&sn=067a2d039641fc3ef96e405f9b36d1ab&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-26T11:13:29】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569259&idx=2&sn=d20540ef2d9a24dca895e8e9786d939c&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -38,6 +38,19 @@
 ---
 
 
+### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+
+[:camera_flash:【2026-08-27T07:26:54】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247510549&idx=7&sn=7e7507ad3b41c54ae7c37e3db25800f5&scene=27#wechat_redirect)
+
+蓝军开源情报大百科数据库。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c5da285543f" alt="" />
+
+---
+
+
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
@@ -60,19 +73,6 @@
 数字时代网络威胁应对专家
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aed83ab73350" alt="" />
-
----
-
-
-### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
-
-[:camera_flash:【2026-08-07T09:51:22】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247509749&idx=8&sn=606a205c60b3589c3305ba83d6ffb53e&scene=27#wechat_redirect)
-
-蓝军开源情报大百科数据库。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c5da285543f" alt="" />
 
 ---
 
@@ -125,6 +125,19 @@
 AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
+
+---
+
+
+### [华顺信安威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
+
+[:camera_flash:【2026-08-26T15:32:15】](https://mp.weixin.qq.com/s?__biz=MzYzNDgwMTE0NQ==&mid=2247484719&idx=1&sn=37256cbd6d1be3f1b7516556d1a81cb2&scene=27#wechat_redirect)
+
+华顺信安威胁情报中心，专注企业资产安全与网络威胁情报。实时追踪漏洞、分析攻击面、分享行业资讯，助力企业全面掌控网络安全风险，提升防护能力。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b73529d6007" alt="" />
 
 ---
 
@@ -632,19 +645,6 @@ OSINT方法与技巧
 关注网络安全，聚焦OSINT分析，提供情报咨询。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3ae39a38b758" alt="" />
-
----
-
-
-### [华顺信安威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNDgwMTE0NQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-华顺信安威胁情报中心，专注企业资产安全与网络威胁情报。实时追踪漏洞、分析攻击面、分享行业资讯，助力企业全面掌控网络安全风险，提升防护能力。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6b73529d6007" alt="" />
 
 ---
 
