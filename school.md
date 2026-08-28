@@ -12,6 +12,19 @@
 ---
 
 
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2026-08-27T14:35:23】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499683&idx=1&sn=713e61025310a75ef0357d8c31a7115e&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
 ### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
@@ -73,19 +86,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 

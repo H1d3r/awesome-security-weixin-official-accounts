@@ -14,26 +14,13 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-08-25T12:09:38】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556525&idx=1&sn=7ac7986407336a871d2c47b2e05c1f25&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-27T12:06:14】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556581&idx=1&sn=04455bcee77918b0c85a55c10e68d5e8&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
-
----
-
-
-### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
-
-[:camera_flash:【2026-08-07T20:03:10】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404717&idx=1&sn=53816d16e9847e8f7fa4b073a139bec3&scene=27#wechat_redirect)
-
-中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
 
 ---
 
@@ -47,6 +34,32 @@
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
+
+---
+
+
+### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+
+[:camera_flash:【2026-08-07T20:03:10】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404717&idx=1&sn=53816d16e9847e8f7fa4b073a139bec3&scene=27#wechat_redirect)
+
+中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe5fc5463d7b" alt="" />
+
+---
+
+
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2026-08-27T16:10:55】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492547&idx=1&sn=31a7f62db860ec7acd09eaefaeb5233e&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
@@ -151,19 +164,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_642251d04229" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
