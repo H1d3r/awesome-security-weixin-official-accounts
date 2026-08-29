@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-08-20T08:30:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454947733&idx=1&sn=042519e238b23255f5abcfc1efe43f99&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-28T08:26:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454947911&idx=1&sn=d132896819a2cff8505232cc160f95c3&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -40,9 +40,9 @@
 
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2026-08-27T15:45:03】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501409&idx=1&sn=53d6a11f64479441f6d050e7fa44b0aa&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-28T11:20:55】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501425&idx=1&sn=5e3432f8cd42b9a4c45205a462b37bdc&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
