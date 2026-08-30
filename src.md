@@ -51,6 +51,19 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
+### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:camera_flash:【2026-08-29T11:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247499077&idx=1&sn=bbc2ea0847295e38cd212d5b4e20a5cd&scene=27#wechat_redirect)
+
+https://security.kuaishou.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
+
+---
+
+
 ### [顺丰安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTAyODk4MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTAyODk4MQ==)
@@ -164,19 +177,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业安全，让白帽子获益，
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f60c48366cb" alt="" />
-
----
-
-
-### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:camera_flash:【2026-08-01T17:47:55】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247498994&idx=1&sn=4c3760ce856107795816f7a7a16c6d68&scene=27#wechat_redirect)
-
-https://security.kuaishou.com
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
 
 ---
 
