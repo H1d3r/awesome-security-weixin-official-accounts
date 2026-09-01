@@ -38,19 +38,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
-### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:camera_flash:【2026-08-29T11:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247499077&idx=1&sn=bbc2ea0847295e38cd212d5b4e20a5cd&scene=27#wechat_redirect)
-
-https://security.kuaishou.com
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
-
----
-
-
 ### [顺丰安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTAyODk4MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3OTAyODk4MQ==)
@@ -168,6 +155,19 @@ https://security.kuaishou.com
 ---
 
 
+### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:camera_flash:【2026-08-29T11:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247499077&idx=1&sn=bbc2ea0847295e38cd212d5b4e20a5cd&scene=27#wechat_redirect)
+
+https://security.kuaishou.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
+
+---
+
+
 ### [货拉拉安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDU5NjI0Mw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDU5NjI0Mw==)
@@ -203,19 +203,6 @@ https://security.kuaishou.com
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60278a9f2272" alt="" />
-
----
-
-
-### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:camera_flash:【2026-08-01T16:40:00】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486167&idx=1&sn=1aa738e08ed5f4cc589efaaec71f7c46&scene=27#wechat_redirect)
-
-为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 
@@ -1503,6 +1490,19 @@ SRC活动整合发布，新上线SRC通知，SRC导航
 天融信安全漏洞响应中心，简称TOPSRC，是天融信致力于建设安全健康的互联网环境，保障天融信产品和业务线的信息安全，促进安全专家的合作与交流而建立的漏洞收集以及响应平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e91dc0666b13" alt="" />
+
+---
+
+
+### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 

@@ -12,9 +12,22 @@
 ---
 
 
+### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+
+[:camera_flash:【2026-08-31T09:17:10】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510276&idx=1&sn=21499ca0c5dc92f9ffa69e3acbe1253d&scene=27#wechat_redirect)
+
+安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0360ef4a4e59" alt="" />
+
+---
+
+
 ### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
 [:camera_flash:【2026-08-30T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247577498&idx=1&sn=288d7508171586fb53a9b36348df3578&scene=27#wechat_redirect)
 
@@ -25,24 +38,11 @@
 ---
 
 
-### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
-
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
-
-[:camera_flash:【2026-08-30T09:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510254&idx=2&sn=ef7213937e9884e1e75306de2af83b11&scene=27#wechat_redirect)
-
-安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0360ef4a4e59" alt="" />
-
----
-
-
 ### [红客攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDc0NjM0Mg==)
 
-[:camera_flash:【2026-08-26T19:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247487171&idx=2&sn=a7c25854bf03c63bb0101bfaadf4e0e4&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-31T18:30:00】](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247487233&idx=2&sn=a24043e4c3d66be2d5f37956d9f8cc93&scene=27#wechat_redirect)
 
 遇事而出，凡是与中国过不去的，我们就下山；凡是要损害中华民族利益的，我们将出动……”我们的口号：“人不犯我，我不犯人，人若犯我，虽远必诛”
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [网络与安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
-
-[:camera_flash:【2026-08-30T05:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MTQwMjYwNA==&mid=2247505375&idx=1&sn=00356564a907c2fc6f21aa3b6904b25f&scene=27#wechat_redirect)
-
-河海大学网络与安全实验室成立于 2008 年03 月，得到了国家自然基金、科技部、教育部、江苏省、水利部和常州市基金的支持。创始人为河海大学韩光洁教授。期待你的加入！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_440e7a50adb7" alt="" />
-
----
-
-
 ### [火炬木攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzcxOTI0OQ==)
@@ -151,6 +138,19 @@ Torchwood火炬木攻防实验室公众号
 网络安全从业者 @人无名 便可潜心练剑
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_db3f406c1b39" alt="" />
+
+---
+
+
+### [网络与安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
+
+[:camera_flash:【2026-08-30T05:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MTQwMjYwNA==&mid=2247505375&idx=1&sn=00356564a907c2fc6f21aa3b6904b25f&scene=27#wechat_redirect)
+
+河海大学网络与安全实验室成立于 2008 年03 月，得到了国家自然基金、科技部、教育部、江苏省、水利部和常州市基金的支持。创始人为河海大学韩光洁教授。期待你的加入！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_440e7a50adb7" alt="" />
 
 ---
 

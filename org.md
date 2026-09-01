@@ -14,7 +14,7 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
 [:camera_flash:【2026-08-25T18:23:40】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247633130&idx=1&sn=77f69d36c7b09b597677db71da5af750&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
 
-[:camera_flash:【2026-08-25T07:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247527656&idx=1&sn=2a21791e9077c30da9e0248cd173138e&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-31T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247527708&idx=1&sn=6b4e24187ffda31618de5ecefe4fc83c&scene=27#wechat_redirect)
 
 谷安培训专注于中国信息安全人才培养，提供专业教育、认证培训、就业培训、安全意识教育、在线教育等服务。
 
@@ -138,6 +138,19 @@
 创新的、可信赖的网御星云
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_79917e2930f5" alt="" />
+
+---
+
+
+### [迪普科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzE5MzkzNA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzE5MzkzNA==)
+
+[:camera_flash:【2026-08-31T15:19:17】](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650401354&idx=1&sn=5973285b81aef83e5225eb857819d7ba&scene=27#wechat_redirect)
+
+让网络更简单、智能、安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5ed70c726e70" alt="" />
 
 ---
 
@@ -233,15 +246,15 @@
 ---
 
 
-### [迪普科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzE5MzkzNA==)
+### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NzE5MzkzNA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
 
-[:camera_flash:【2026-08-24T08:56:12】](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650400752&idx=1&sn=eabfe6328a4565bd106ffcade7b9479b&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-01T07:56:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454836409&idx=1&sn=06d676bfccb8e5fdb65d21a774711c44&scene=27#wechat_redirect)
 
-让网络更简单、智能、安全
+永信至诚（股票代码：688244），是聚焦科技创新的网络与数据安全企业，数字安全测试评估赛道领跑者、网络靶场和人才建设领军者、AI原生安全倡导者，致力于为数字中国和网络强国建设提供安全保障和人才支撑，保障政企用户数字健康，带给世界安全感。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5ed70c726e70" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
 
 ---
 
@@ -255,6 +268,19 @@
 Imperva是一家全球公认领先的应用数据安全及云安全供应商，提供世界一流的数据、应用、API、云端安全解决方案。公司成立于2002年，总部位于美国加州红木海岸，在全球100多个国家拥有超过6000+直接客户和超过550+合作伙伴。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8ff2977b2430" alt="" />
+
+---
+
+
+### [成都链安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
+
+[:camera_flash:【2026-08-31T09:50:00】](https://mp.weixin.qq.com/s?__biz=MzU2NzUxMTM0Nw==&mid=2247514891&idx=1&sn=dba197f4ea990c2360aee08776e2fe1f&scene=27#wechat_redirect)
+
+成都链安以『让区块链生态更安全』为使命，以『成为全球第一的区块链安全公司』为愿景，不断打造区块链安全颠覆性的核心技术，为全球区块链企业的安全保驾护航。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae7822895" alt="" />
 
 ---
 
@@ -415,19 +441,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 ---
 
 
-### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:camera_flash:【2026-08-21T07:56:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454836377&idx=1&sn=0563cd6cdd4189318e43d40ee42e9453&scene=27#wechat_redirect)
-
-永信至诚（股票代码：688244），是聚焦科技创新的网络与数据安全企业，数字安全测试评估赛道领跑者、网络靶场和人才建设领军者、AI原生安全倡导者，致力于为数字中国和网络强国建设提供安全保障和人才支撑，保障政企用户数字健康，带给世界安全感。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
-
----
-
-
 ### [国舜股份](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjU5MTIxMg==)
@@ -450,19 +463,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 零时科技是专业的区块链安全解决方案提供商，公司团队专注于区块链生态基础设施安全研究，包括安全审计、资产安全、以及Web3.0安全攻防技术研究；  零时科技官网：https://noneage.com/
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e9984cfa514" alt="" />
-
----
-
-
-### [成都链安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
-
-[:camera_flash:【2026-08-25T10:23:44】](https://mp.weixin.qq.com/s?__biz=MzU2NzUxMTM0Nw==&mid=2247514842&idx=1&sn=a586d486603eb4cb234536f806899ce4&scene=27#wechat_redirect)
-
-成都链安以『让区块链生态更安全』为使命，以『成为全球第一的区块链安全公司』为愿景，不断打造区块链安全颠覆性的核心技术，为全球区块链企业的安全保驾护航。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c4ae7822895" alt="" />
 
 ---
 
@@ -636,19 +636,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 ---
 
 
-### [江南信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTE0MTEwNQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTE0MTEwNQ==)
-
-[:camera_flash:【2026-08-01T12:29:33】](https://mp.weixin.qq.com/s?__biz=MzA4MTE0MTEwNQ==&mid=2668671476&idx=1&sn=3126216ede248b85be98ccc82125dc02&scene=27#wechat_redirect)
-
-专业的数据安全产品和解决方案提供商
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9125e872b50d" alt="" />
-
----
-
-
 ### [中新赛克](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODUwNTg0Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODUwNTg0Ng==)
@@ -658,6 +645,19 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 信息网络安全与数据应用领域一流的整体解决方案提供商，有效打击犯罪，共创安全、和谐的信息环境。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de06cb7dc3e6" alt="" />
+
+---
+
+
+### [北信源](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MTM1MjMzNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MTM1MjMzNA==)
+
+[:camera_flash:【2026-08-31T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzA5MTM1MjMzNA==&mid=2653427278&idx=1&sn=a6aa10f6a1e3fe2cc64b91b468d0ccf8&scene=27#wechat_redirect)
+
+北京北信源软件股份有限公司，是信息安全领域龙头企业之一，终端安全领域领导者，信创安全领军企业。成立于1996年，注册资本14.5亿，2012年信息安全领域首批A股上市企业之一，现已成为数字经济时代智慧安全的全面产品提供商和解决方案提供商。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6d85b522559" alt="" />
 
 ---
 
@@ -1572,6 +1572,19 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 ---
 
 
+### [江南信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTE0MTEwNQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTE0MTEwNQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+专业的数据安全产品和解决方案提供商
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9125e872b50d" alt="" />
+
+---
+
+
 ### [河南信安世纪](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzA4OTE3NQ==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzA4OTE3NQ==)
@@ -1698,19 +1711,6 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 网易易盾是网易旗下的安全品牌，提供内容安全、业务风控、移动安全等一站式云安全服务。易盾拥有20多年技术经验和大数据积累，对外提供内容安全服务、智能审核管理系统、行为式验证码、反作弊、号码验证、App加固、SDK加固、手游智能反外挂等服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_078d8a7918eb" alt="" />
-
----
-
-
-### [北信源](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MTM1MjMzNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MTM1MjMzNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-北京北信源软件股份有限公司，是信息安全领域龙头企业之一，终端安全领域领导者，信创安全领军企业。成立于1996年，注册资本14.5亿，2012年信息安全领域首批A股上市企业之一，现已成为数字经济时代智慧安全的全面产品提供商和解决方案提供商。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6d85b522559" alt="" />
 
 ---
 
