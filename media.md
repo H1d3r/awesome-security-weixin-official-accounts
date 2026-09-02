@@ -40,9 +40,9 @@
 
 ### [网络安全和信息化](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
-[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
-[:camera_flash:【2026-08-31T17:08:35】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649178048&idx=2&sn=3f48592491ce646d67a69db3b652a8ff&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-01T17:03:12】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649178074&idx=1&sn=2b76532a9eecf8d6e4eb0ec737999743&scene=27#wechat_redirect)
 
 《网络安全和信息化》杂志官方所属，网络安全人员与IT运维人员的专业管理类经验、知识、资料，帮助用户提高网络安全能力建设和IT基础设施运营水平，提升IT管理人员工作能力。
 
@@ -64,6 +64,19 @@
 ---
 
 
+### [公安部网安局](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
+
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
+
+[:camera_flash:【2026-09-01T15:44:00】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247583006&idx=1&sn=8650871c695021c6e2ddf72e1f271e6f&scene=27#wechat_redirect)
+
+发布网安权威声音，展现各地网警风采
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e406f4bcdf34" alt="" />
+
+---
+
+
 ### [湖北省网络和数据安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDE5NzY3NQ==)
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDE5NzY3NQ==)
@@ -77,15 +90,15 @@
 ---
 
 
-### [公安部网安局](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
+### [赛欧思安全研究实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
-[:camera_flash:【2026-08-31T09:18:28】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247582945&idx=1&sn=62e40c1c7d21e750cce3851415ab5379&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-01T09:30:56】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247491927&idx=1&sn=117148977bb74dcab23f89c4e82e9089&scene=27#wechat_redirect)
 
-发布网安权威声音，展现各地网警风采
+网络安全态势感知与预警通报；互联网安全红、黑榜；互联网安全资产的分析与研究；互联网安全边界分析与风险扩散分析技术的倡导者。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e406f4bcdf34" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04596d590471" alt="" />
 
 ---
 
@@ -103,19 +116,6 @@
 ---
 
 
-### [赛欧思安全研究实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
-
-[:camera_flash:【2026-08-28T10:00:00】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247491907&idx=1&sn=921ce27e096688050602864f01020eac&scene=27#wechat_redirect)
-
-网络安全态势感知与预警通报；互联网安全红、黑榜；互联网安全资产的分析与研究；互联网安全边界分析与风险扩散分析技术的倡导者。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_04596d590471" alt="" />
-
----
-
-
 ### [数说安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE5MDI5Mg==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE5MDI5Mg==)
@@ -129,6 +129,19 @@
 ---
 
 
+### [深信服产教官方账号](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE3NDE0Ng==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE3NDE0Ng==)
+
+[:camera_flash:【2026-09-01T15:52:32】](https://mp.weixin.qq.com/s?__biz=MzkzMDE3NDE0Ng==&mid=2247541424&idx=1&sn=0c7c28b0c4e5bb2038a1bcd82db37223&scene=27#wechat_redirect)
+
+聚焦网络安全及云计算领域的教育、培训、认证产品及服务提供商
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_46ca289fa23d" alt="" />
+
+---
+
+
 ### [CAICT可信安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjM1MDg2Mg==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjM1MDg2Mg==)
@@ -138,19 +151,6 @@
 可信安全是中国信通院（CAICT）可信云下设的安全品牌，旨在推进安全相关标准和产业发展，依托云计算开源产业联盟的零信任实验室、软件供应链安全实验室、业务安全推进计划、安全守卫者计划，开展标准推广、学术研讨、测试评估、行业交流、国际合作。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1ec5eac0f03" alt="" />
-
----
-
-
-### [深信服产教官方账号](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE3NDE0Ng==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE3NDE0Ng==)
-
-[:camera_flash:【2026-08-27T17:18:29】](https://mp.weixin.qq.com/s?__biz=MzkzMDE3NDE0Ng==&mid=2247541379&idx=1&sn=e3b8aec691d442cf958c4dfa9d1a92dc&scene=27#wechat_redirect)
-
-聚焦网络安全及云计算领域的教育、培训、认证产品及服务提供商
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_46ca289fa23d" alt="" />
 
 ---
 

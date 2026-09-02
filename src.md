@@ -129,6 +129,19 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
+### [字节跳动安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
+
+[:camera_flash:【2026-09-01T10:53:44】](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496343&idx=1&sn=0130718115e2f6714fb47946a14dbc33&scene=27#wechat_redirect)
+
+字节跳动安全中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
+
+---
+
+
 ### [奇安信病毒响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5Mzg5MDM3NQ==)
@@ -450,19 +463,6 @@ VIPKID安全响应中心官方账号
 美团安全应急响应中心官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_83d9bb3b8ed0" alt="" />
-
----
-
-
-### [字节跳动安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-字节跳动安全中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
 
 ---
 

@@ -1,9 +1,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2026-08-31T13:27:51】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569363&idx=2&sn=dbf9fb5f627c45c74dd6b4e94e5db620&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-01T09:51:25】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569382&idx=2&sn=77dbadb1080c3ea69956d8f2991e9ab3&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
