@@ -1,7 +1,7 @@
 
 ### [安全学习那些事儿](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNTI2NTQxOA==)
 
 [:camera_flash:【2026-09-01T15:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247504573&idx=2&sn=c601aa616e7f4eb5fad232d933cec3c3&scene=27#wechat_redirect)
 
@@ -51,19 +51,6 @@
 ---
 
 
-### [安全狗的自我修养](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
-
-[:camera_flash:【2026-08-11T07:33:50】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247512779&idx=1&sn=a675325587515b572dafd52058e48e43&scene=27#wechat_redirect)
-
-安全技术相关，作者主页https://github.com/haidragon。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71f097621668" alt="" />
-
----
-
-
 ### [thelostworld](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNjk0ODYxMA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNjk0ODYxMA==)
@@ -103,15 +90,15 @@ HACK之道，专注于红队攻防、实战技巧、CTF比赛、安全开发、�
 ---
 
 
-### [天黑说嘿话](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
+### [安全狗的自我修养](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTE5MDY5NA==)
 
-[:camera_flash:【2026-08-10T09:36:35】](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486349&idx=1&sn=06c6dec3bc3f70bf80b55b67aa879e8b&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-11T07:33:50】](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247512779&idx=1&sn=a675325587515b572dafd52058e48e43&scene=27#wechat_redirect)
 
-嘘，天黑了，要说嘿话！ 分享网络安全、时政热点、职场经验、生活趣事等。
+安全技术相关，作者主页https://github.com/haidragon。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3b4f344cc4ba" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_71f097621668" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@ web安全入门、进阶技巧，红蓝攻防、应急响应、内网渗透、�
 隶属于One-Fox安全团队旗下 致力于红蓝对抗，WEB安全渗透测试，内网渗透，钓鱼社工，定期分享原创工具与分享他人常用开源安全工具和教程等前沿网络安全资源。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_822cef092383" alt="" />
+
+---
+
+
+### [天黑说嘿话](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQ5MTAzMA==)
+
+[:camera_flash:【2026-08-10T09:36:35】](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486349&idx=1&sn=06c6dec3bc3f70bf80b55b67aa879e8b&scene=27#wechat_redirect)
+
+嘘，天黑了，要说嘿话！ 分享网络安全、时政热点、职场经验、生活趣事等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3b4f344cc4ba" alt="" />
 
 ---
 
